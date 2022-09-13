@@ -7,15 +7,20 @@
     width: 700px;
     background: white;
 }
+header {
+    font-family: abril fatface;
+}
+h5{
+    color: red;
+}
 body {
     font-family: Source Sans pro;
     background: #eee;
 }
 h1 {
     text-align:center;
-    font-family: abril fatface; 
 }
- ul {
+ul {
     list-style: none;
     margin: 16px 16px 16px 0;
     padding: 0;
@@ -26,6 +31,19 @@ h1 {
     display: inline-block;
     padding: 1px;
  }
- h2, h4, h5 {
-    font-family: roboto slab;
- }
+h4 {
+    font-family: robot Slab;
+}
+section {
+    display: inline-block;
+    width: 300px;
+    margin: auto;
+    padding: 1em;
+    
+}
+section > img  {
+    width: 300px;
+}
+main {
+    width: 600px;
+}
