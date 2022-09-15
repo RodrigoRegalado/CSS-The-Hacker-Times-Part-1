@@ -65,3 +65,11 @@ div[class="bonus-articles"] > section {
 div[class="bonus-articles"] > section > img {
     width: 180px;
 }
+footer {
+    display: inline;
+    padding-left: 3em;
+}
+a {
+    text-decoration: none;
+    padding-left: 2em;
+}
